@@ -1,44 +1,51 @@
-# MongoDB Practice 
+# 🍃 MongoDB Practice
 
-This repository contains my hands-on practice and learning of MongoDB based on tutorials and self-study.
+This folder contains my hands-on practice for MongoDB to understand NoSQL document-based database concepts and backend development.
 
-The goal of this repository is to strengthen my understanding of NoSQL databases, schema-less design, CRUD operations, aggregation pipeline, and real-world database concepts.
-
----
-
- Topics Covered
-
-- MongoDB Basics & Architecture  
-- Database, Collections, Documents  
-- CRUD Operations (Insert, Find, Update, Delete)  
-- Query Filters and Projection  
-- Indexing Basics  
-- Aggregation Pipeline  
-- Schema Design Concepts  
-- MongoDB with Node.js  
-
----
- Learning Objective
-
-- Understand how NoSQL databases work internally  
-- Write efficient queries  
-- Design scalable collections  
-- Learn backend database integration  
-- Prepare for backend / full-stack development
-
-------
- Tools & Technologies
-
-- MongoDB Community Edition  
-- MongoDB Compass  
-- Node.js  
-- JavaScript  
-- VS Code  
+MongoDB stores data in flexible JSON-like documents and is widely used for modern scalable applications.
 
 ---
 
-How to Run
+## ✅ Topics Covered
 
-1. Install MongoDB on your system  
-2. Start MongoDB server  
-3. Install dependencies:
+- Database and collection creation
+- Insert, Update, Delete operations
+- Filtering and querying
+- Sorting and limiting results
+- Aggregation pipelines
+- Indexing and performance optimization
+- Text search
+- Schema-less design concepts
+
+---
+
+## 📂 Files
+
+mongodb_complete_practice.js  
+Complete MongoDB practice file covering CRUD and advanced operations.
+
+---
+
+## ▶️ How to Run
+
+1. Install MongoDB and Mongo Shell (mongosh).
+2. Open terminal and run `mongosh`.
+3. Paste commands from the practice file step-by-step.
+4. Observe output and modify queries for learning.
+
+---
+
+## 🎯 Learning Goal
+
+- Understand NoSQL concepts and document-based storage.
+- Build scalable backend-ready data models.
+- Prepare for interviews and real-world projects.
+- Practice clean and optimized queries.
+
+---
+
+## 👩‍💻 Author
+
+Shivani Padhariya  
+BCA Student | Aspiring AI / Backend Engineer  
+GitHub Portfolio Project
