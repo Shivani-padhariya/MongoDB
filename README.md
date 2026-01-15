@@ -47,5 +47,5 @@ Complete MongoDB practice file covering CRUD and advanced operations.
 ## 👩‍💻 Author
 
 Shivani Padhariya  
-BCA Student | Aspiring AI / Backend Engineer  
-GitHub Portfolio Project
+
+
